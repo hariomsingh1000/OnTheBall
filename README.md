@@ -7,4 +7,4 @@ Website: www.mdsec.com
 
 Facebook: https://facebook.com/villagelad
 
-PS: Please give creditid when you use/make changes to the origional code.
+PS: Please give credit when you use/make changes to the origional code.
